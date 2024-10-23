@@ -172,4 +172,4 @@ research/
 !.gitignore
 !README.md
 !public_data/
-!public_data/*.csv
+!public_data/**
