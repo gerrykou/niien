@@ -18,4 +18,7 @@ csv files here: [public_data/gr/csv](public_data/gr/csv)
 `ATC_NII (€/MWh)`: Average Total Cost Non-Renewable Units Production in NII
 
 `ΜMΚ_ΜΔΝ (€/MWh)`: Μέσο Μεταβλητό Κόστος Παραγωγής Συμβατικών Μονάδων στα ΜΔΝ  
-`AVC_NII`: Average Variable Cost Non-Renewable Units Production in NII
+`AVC_NII (€/MWh)`: Average Variable Cost Non-Renewable Units Production in NII
+
+For islands' names in latin, they are used the ones published here:
+https://deddie.gr/en/themata-tou-diaxeiristi-mi-diasundedemenwn-nisiwn/leitourgia-mdn/dimosieusi-imerisiou-energeiakou-programmatismou/
