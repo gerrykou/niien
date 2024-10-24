@@ -10,6 +10,9 @@ A repository to publish Energy production data for [Non-Interconnected Islands M
 ### Greek
 csv files here: [public_data/gr/csv](public_data/gr/csv)
 
+### English
+csv files here: [public_data/en/csv](public_data/en/csv)
+
 # Definitions
 `ΜΔΝ`: Μη Διασυνδεδεμένων Νησιών  
 `NII`: Non-Interconnected Islands
