@@ -23,5 +23,5 @@ csv files here: [public_data/en/csv](public_data/en/csv)
 `ΜMΚ_ΜΔΝ (€/MWh)`: Μέσο Μεταβλητό Κόστος Παραγωγής Συμβατικών Μονάδων στα ΜΔΝ  
 `AVC_NII (€/MWh)`: Average Variable Cost Non-Renewable Units Production in NII
 
-For islands' names in latin, they are used the ones published here:
+For islands' names in latin, they are used the ones published here:  
 https://deddie.gr/en/themata-tou-diaxeiristi-mi-diasundedemenwn-nisiwn/leitourgia-mdn/dimosieusi-imerisiou-energeiakou-programmatismou/
